@@ -1,2 +1,2 @@
-# Analisa Pasar Saham Periode Juni 2025 Menggunakan ibm-granite/granite-3.3-8b-instruct
+# Analisis Pasar Saham Periode Juni 2025 Berbasis AI Menggunakan IBM GRANITE
 ## Project Overview
