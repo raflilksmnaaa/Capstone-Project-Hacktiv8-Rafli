@@ -37,3 +37,6 @@ Penggunaan AI disini tidak hanya klasifikasi,peringkasan, atau analisis sentimen
 1. memproses seluruh dataset atau sampelnya beserta statistik ringkasan dan informasi relevan lainnya yang disesuaikan oleh penggunaan prompt.
 2. menghasilkan analisis yanhg dapat ditindaklanjuti. seperti, merumuskan rekomendasi saham spesifik (BUY/AVOID) berdasarkan dataset yang diberikan, menilai risiko, dan menyajikan strategi investasi berdasarkan analisis data.
 3. mengklasifikasikan informasi dan menyajikan analisis dalam bagian-bagian yang jelas seperti ikhtisar pasar, analisis sektor, penilaian risiko, dan strategi yang dapat ditindaklanjuti. tentu saja hal ini akan dibentuk dalam format yang terstruktur.
+
+### Catatan ###
+pada Github ini terdapat 2 .ipynb yaitu : *Stock_Data_IBM_Granite.ipynb* dan *dataset_stock_market.ipynb*. *dataset_stock_market.ipynb* hanya digunakan sebagai pembuka fungsi dari Output 
