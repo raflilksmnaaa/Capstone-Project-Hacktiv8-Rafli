@@ -13,7 +13,7 @@ dengan menggunakan model IBM Granite yaitu, ibm-granite/granite-3.3-8b-instruct 
 ada beberapa permasalahan yang saya berusaha pecahkan pada projek dan pendekatan yang saya lakukan. meliputi : Pengolahan Volume Data Pasar Saham Yang Besar dan Kompleks, Mendapatkan Insight dan Findings dari Data Mentah, Mengatasi Keterbatasan Analisis Manual atau Konvensional.
 #### Pengolahan Volume Data Pasar Saham Yang Besar dan Kompleks ####
 seperti yang kita tahu, Data pasar saham sangat dinamis dan bervolume tinggi. Mengolah,membersihkan, dan mempersiapkannya secara manual tentu saja akan sangat memakan waktu dan rentan kesalahan. Makanya, pada projek ini disediakan framework otomatis untuk memuat, memvalidasi, dan memproses data supaya efisien.
-##### Mendapatkan Insight dan Findings dari Data Mentah ####
+#### Mendapatkan Insight dan Findings dari Data Mentah ####
 Data mentah yang berupa harga,volume,rasio,dll, secara tidak langsung memberikan kita gambaran tentang tren pasar,kinerja sektor, ataupun potensi resiko. Pada projek ini menggunakan statistik,visualisasi, dan yang paling utama adalah penggunaan model AI ibm-granite/granite-3.3-8b-instruct untuk mendapatkan wawasan lebih dalam dan terstruktur dari data.
 #### Mengatasi Keterbatasan Analisis Manual atau Konvensional ####
 seperti yang kita tahu, analisis tradisional mungkin terbatas pada pola yang jelas atau indikator standar. 
